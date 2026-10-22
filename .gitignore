@@ -1,0 +1,18 @@
+# Virtual environment
+.venv/
+
+# Secrets
+.env
+
+# Saved FAISS indexes
+faiss_store/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# LibreOffice lock files
+.~lock.*
+
+# Streamlit
+.streamlit/secrets.toml
