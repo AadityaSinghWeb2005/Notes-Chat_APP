@@ -172,8 +172,3 @@ Notes-RAG/
 - Optional hosted embedding provider for serverless deployments
 - Upload → auto-index without pressing a button
 
----
-
-## 📜 License
-
-Add a license of your choice (e.g. MIT).
